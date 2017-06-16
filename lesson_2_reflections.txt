@@ -1,0 +1,5 @@
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+The staging area is like a temporary container which holds files which are 
+logically related and need to be committed togther in one commit. 
+This helps in easier tracking of files which are logicall equivalent.
