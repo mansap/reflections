@@ -3,3 +3,19 @@ What value do you think it offers?
 The staging area is like a temporary container which holds files which are 
 logically related and need to be committed togther in one commit. 
 This helps in easier tracking of files which are logicall equivalent.
+
+How can you use the staging area to make sure you have one commit per logical 
+change?
+If we make any changes, the difference is immediately shown i staging area.
+So, if we keep checking status of our files on a regular basis, we can make 
+sure we commit per logical change.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+If wewant to make some experimental changes in our code, then we can so so 
+without changing any of our master/working code and go ahead and make a new
+version oof it al-together. Later if required, we can merge the two together.
+
+How do the diagrams help you visualize the branch structure?
+Pictorial representation makes the concept extremely easy to understand 
+and very clear.
