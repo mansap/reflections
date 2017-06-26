@@ -10,3 +10,12 @@ automatically stay up-to-date with your remote repository?
 Because the developer is the best person to decide when and what features 
 need to be updated and taken from other collaborating developers
 
+Q.3
+Describe the differences between forks, clones, and branches. When would 
+you use one instead of another?
+Forks: To take someone elses code as base and work/build upon it or
+customize it for use
+Clones: When you are collaborating with someone, you can clone the repo 
+so that all colaborators can work on the same copy of the file
+Branches: When you want to add a different feature/experiement with 
+some new feature or simply have multiple versions of the same product
